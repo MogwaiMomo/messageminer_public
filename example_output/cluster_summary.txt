@@ -1,0 +1,230 @@
+Cluster Id:  1
+Cluster Theme:  Difficulty finding the right bra size and type.
+Cluster Size:  250
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"finding a bra the correct size without having to shop around"
+"I did not buy a bra"
+"the range in my size with an underwire"
+"knewI needed a bra"
+"Unpretty bras eliminated"
+"Bra size range so you can actually find a bra that fits"
+"Searching through the bra racks in a store"
+"Not having any more than 2 bras to choose from"
+"I have t been able to go out and buy any underwear during Covid."
+"Good variety of bra types (functional) strapless, plunge, etc"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  2
+Cluster Theme:  Difficulty finding the right size.
+Cluster Size:  144
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"Good cup size"
+"Nothing for me personally except for possibly availability of stock. The purchases I made are also available elsewhere. (I have a large bust for my size but it still falls within the standard size range so I may not be your target customer)"
+"My size is readily available and great fit"
+"Finding the right size"
+"Range of sizes, especially large cup sizes"
+"I'm unable to find my size or my daughter's size in-store at any shop in Brisbane."
+"Finding styles in my size"
+"Finding my size"
+"You have stock of sizes that fit me"
+"You offer a calculated sizing system"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  3
+Cluster Theme:  Convenience of online shopping.
+Cluster Size:  117
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"Easy ordering quick delivery haven’t had to use the bra sizing service option yet will do so in the future"
+"The ease to return if not right"
+"When the one I want is out of stock."
+"SHops do not carry the stock of my size. I know that I can purchase from you and it will be ok"
+"Quick & easy"
+"Finding my favourite brand and style without having to visit multiple stores"
+"The site was just convenient. Google picked you."
+"usually there are no problems. I know what I want and I know where to get it.... From you!"
+"It allows me to buy them when I cannot find them anywhere else.  Very convenient shopping online."
+"Living in the country it’s convenient to buy online"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  4
+Cluster Theme:  Comfort
+Cluster Size:  105
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"? Comfort and quality"
+"Sizex22B"
+"Not enough support"
+"Stress while working and running"
+"Discomfort"
+"Available"
+"Sport"
+"Comfortable"
+"Confidence"
+"Comfort"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  5
+Cluster Theme:  Shopping
+Cluster Size:  100
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"No shops open"
+"Aimless wandering the aisles at department stores."
+"Having to travel to the store and especially walk to the store from my car which is difficult for me"
+"Going to the shops"
+"Endless trying on in stores! The worst…"
+"time to shop"
+"Going shopping and trying on!"
+"Time to shop"
+"Having to try on in store."
+"Trying things on at the shops"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  6
+Cluster Theme:  None/Nothing
+Cluster Size:  72
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"Nothing. They're all being returned."
+"None"
+"nil"
+"none"
+"??"
+"None"
+"None"
+"None"
+"nothing"
+"Na"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  7
+Cluster Theme:  Uncomfortable straps/straps slipping/straps cutting into shoulders
+Cluster Size:  70
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"Wide straps"
+"It seems there is a little less give in the back."
+"Cutting into my shoulders. The ones I bought have thicker straps"
+"they didn't feel as comfy as I thought they would"
+"I’m very particular, so probably the strap as mentioned. Once I find an ideal fit and style, I’m akin to buying a few in various colours."
+"I will let you know when I wear one"
+"I do not have sore shoulders, or uncomfortable back area"
+"The Glamourise sports bras are great because the straps don't slip. I was wearing a racerback bra but these restrict movement in my traps (trapezoid muscles) and but other bras with shoulder straps slip. The Glamourise have the straps at the back more centred and they do not slip. Also, they do not have an underwire (ouch...bloody ouch!) but offer great support. Best sports bras I have ever worn (and I have tried lots)."
+"Doing them up and wide straps"
+"Front closing helped so much with the larger boob"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  8
+Cluster Theme:  Variety/Choice/Options
+Cluster Size:  70
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"Size"
+"Size range! The size range at Curvy is amazing, it doesn’t matter if you’re thin or curvy, big breasted or small, Curvy has you covered."
+"More choices"
+"Great range"
+"Price and availability"
+"Variety"
+"Choice"
+"Quality"
+"The cost and the selection"
+"options"
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  9
+Cluster Theme:  Fit
+Cluster Size:  69
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"Happy with the fit"
+"Good fitting"
+"They just give me a chance of finding a good fit and style for whatever my needs"
+"Right fitting"
+"Fit"
+"Great fit which is very hard to find"
+"Fit"
+"Sometimes it’s hard to get the right fit."
+"Perfect fit"
+"After receiving them, you can try them on when it suits you."
+
+
+----------------------------------------------------------------------------------------------------
+
+
+Cluster Id:  10
+Cluster Theme:  Uncertainty/Lack of Understanding
+Cluster Size:  45
+
+
+VERBATIMS FROM CUSTOMERS:
+
+
+"I dont think you do"
+"Not sure"
+"Not sure what this question means"
+"no idea"
+"Not sure"
+"Not sure"
+"I don’t know"
+"Not sure"
+"Not sure"
+"Sorry question not clear?"
+
+
+----------------------------------------------------------------------------------------------------
+
+
